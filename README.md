@@ -3,6 +3,6 @@
 
 [To see Deep_Learning_from_Scratch_1](https://github.com/J-TKim/Deep_Learning_from_Scratch_1)
 
-[Handle_Corpus.ipynb](https://github.com/J-TKim/Deep_Learning_from_Scratch_2/blob/main/Ch2/Handle_Corpus.ipynb)
-[word2vec.ipynb](https://github.com/J-TKim/Deep_Learning_from_Scratch_2/blob/main/Ch3/word2vec.ipynb)
+[Handle_Corpus.ipynb](https://github.com/J-TKim/Deep_Learning_from_Scratch_2/blob/main/Ch2/Handle_Corpus.ipynb)     
+[word2vec.ipynb](https://github.com/J-TKim/Deep_Learning_from_Scratch_2/blob/main/Ch3/word2vec.ipynb)   
 
